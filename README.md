@@ -1,8 +1,6 @@
 ## Hey <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="29px">, I'm Ankit Aggarwal!
-<br>
 
 <img align = "center" alt="gif" src="images\1584024060.gif" width="900" height="500" />
-<br>
 
 ## About Me 🚀
 🎓 I’m a Competitive Programmer, an Open-Source enthusiast & a senior pursuing my Bachelors in Computer Science & Engineering. </br>
