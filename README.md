@@ -1,6 +1,6 @@
 ## Hey <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="29px">, I'm Ankit Aggarwal!
 <br>
-<img align = "center" alt="image" src="images\banner.png" width="900" height="370" />
+<img align = "center" alt="gif" src="images\1584024060.gif" width="900" height="370" />
 <br><br>
 
 ## About Me 🚀
