@@ -9,9 +9,9 @@
 
 ## Open Source Contributions 🌎
 
-<a><img src=https://img.shields.io/badge/FBDeveloperCircles-Contributor-brightgreen></a>
 <a><img src=https://img.shields.io/badge/Microsoft-Contributor-blue></a>
 <a><img src=https://img.shields.io/badge/Tesseract_Coding-Contributor-orange></a>
+<a><img src=https://img.shields.io/badge/FBDeveloperCircles-Contributor-brightgreen></a>
 <a><img src=https://img.shields.io/badge/Hacktoberfest-Contributor-purple></a>
 <a><img src=https://img.shields.io/badge/Facebook-Contributor-blue></a>
 
