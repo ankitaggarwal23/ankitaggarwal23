@@ -39,7 +39,6 @@ Here are some ideas to get you started:
 </p>
 
 ## Github Statistics 📃
-<br>
 <p align="center">
 <img src = "https://github-readme-stats.vercel.app/api?username=ankitaggarwal23&theme=default&show_icons=true&hide_border=true" alt="ankitaggarwal23" />&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
